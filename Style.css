@@ -3,7 +3,7 @@ display: flex;
   height:100vh;
   margin:0;
   flex-direction: column;
-  background:linear-gradient(225deg, lightpink,orange,pink,blue);
+  background:linear-gradient(45deg, lightpink,orange,pink);
 }
 h1 {
   align-items: center;
