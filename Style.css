@@ -6,7 +6,16 @@ display: flex;
   background:linear-gradient(45deg, lightpink,orange,pink);
 }
 h1 {
+  text-align: center;
   align-items: center;
   justify-content: center;
+}
+.Container {
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background-color:white;
+  padding:20px;
+  border-radius:10px
 }
 
