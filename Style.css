@@ -13,9 +13,7 @@ h1 {
   justify-content: center;
 }
 .Container {
-  display:flex;
-  align-items:center;
-  justify-content:center;
+  text-align:center;
   background-color:white;
   padding:5px;
   border-radius:1px;
