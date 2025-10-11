@@ -3,6 +3,8 @@ display: flex;
   height:100vh;
   margin:0;
   flex-direction: column;
+  align-items: center;
+  justify-content:center;
   background:linear-gradient(45deg, lightpink,lightyellow,pink);
 }
 h1 {
@@ -16,13 +18,15 @@ h1 {
   justify-content:center;
   background-color:white;
   padding:5px;
-  border-radius:1px
+  border-radius:1px;
+  width:90%;
+  max-width:350px;
 }
 input[type="text"] {
-  border: 2px solid white;
+  border: 1px solid #d9d9d9;
 }
 input[type="password"] {
-  border: 2px solid white;
+  border: 1px solid #d9d9d9;
 }
 input[type="submit"] {
   background-color: orange;
