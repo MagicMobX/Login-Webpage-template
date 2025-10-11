@@ -15,8 +15,8 @@ h1 {
   align-items:center;
   justify-content:center;
   background-color:white;
-  padding:20px;
-  border-radius:10px
+  padding:5px;
+  border-radius:1px
 }
 input[type="text"] {
   border: 2px solid white;
