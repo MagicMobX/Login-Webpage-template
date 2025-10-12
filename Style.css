@@ -5,7 +5,7 @@ display: flex;
   flex-direction: column;
   align-items: center;
   justify-content:center;
-  background:linear-gradient(45deg, lightpink,lightyellow,pink);
+  background-image:url('15a6b392-a0c3-4914-9277-22fdb937f1a2.jpeg');
 }
 h1 {
   text-align: center;
